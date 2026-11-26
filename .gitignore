@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+.aws/
+*.pem
+*.key
+*.log
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
